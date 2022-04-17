@@ -1,0 +1,69 @@
+#avatar{
+   max-width:200px;
+   max-height:200px;
+}
+.custom-head{
+    background-color: rgb(34, 211, 173);  
+    min-height: 450px;
+}
+.custom-button{
+    background-color: rgb(34, 211, 173);
+}
+.custom-nav{
+    background-color: rgb(59, 59, 92);
+}
+.custom-hr{
+    width: 35%;
+    height: 2px !important;
+    background-color: white !important;
+    color: white !important;
+    border-radius: 2px;
+    opacity: 1;
+    
+
+}
+.custom-hr-main{
+    width: 35%;
+    height: 2px !important;
+    background-color: rgb(59, 59, 92) !important;
+    color: rgb(59, 59, 92) !important;
+    border-radius: 2px;
+    opacity: 1;
+    
+
+}
+.custom-div{
+    width: 15%;
+    min-height: 50px;
+    display: flex;
+    align-content: space-between;
+    align-content: space-around;
+}
+.custom-div-img{
+    border-radius: 7px;
+}
+.custom-div-portfolio{
+    width: 15%;
+    min-height: 50px;
+    display: flex;
+    align-content: space-between;
+    align-content: space-around;
+    margin-left: 42.5% ;
+}
+.custom-container-about{
+    background-color: rgb(34, 211, 173);
+    min-height: 380px;
+}
+#submit{
+    background-color: rgb(34, 211, 173);
+    color: white;
+}
+#colored-a{
+    color: rgb(34, 211, 173);
+}
+.custom-div-copy{
+    background-color: rgb(27, 27, 53);
+}
+.custom-div-footer{
+    background-color: rgb(59, 59, 92);
+}
